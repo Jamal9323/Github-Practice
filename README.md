@@ -1,3 +1,5 @@
 # Github-Practice
 
-Author-Name = Rana Jamal
+Author = Rana Jamal
+<br>
+This is My Repository
